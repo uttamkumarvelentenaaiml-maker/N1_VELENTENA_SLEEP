@@ -1,0 +1,12 @@
+N1 (Most Important Class)
+=========================
+
+Precision : 61.09%
+Recall    : 37.39%
+F1-score  : 46.39%
+
+Core Research Insight
+---------------------
+Baseline model performs strongly overall,
+but N1 detection remains challenging.
+This class should be the main improvement target.

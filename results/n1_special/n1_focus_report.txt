@@ -1,0 +1,6 @@
+N1 PERFORMANCE (N1-SPECIAL MODEL)
+=================================
+
+Precision : 53.75%
+Recall    : 55.53%
+F1-score  : 54.62%

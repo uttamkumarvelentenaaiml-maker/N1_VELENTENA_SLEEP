@@ -1,0 +1,6 @@
+N1 PERFORMANCE (Transformer)
+============================
+
+Precision : 53.74%
+Recall    : 27.94%
+F1-score  : 36.76%

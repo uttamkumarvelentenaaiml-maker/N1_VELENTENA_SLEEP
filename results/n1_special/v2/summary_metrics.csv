@@ -1,0 +1,2 @@
+model,accuracy,macro_f1,weighted_f1,n1_precision,n1_recall,n1_f1
+n1_v2,0.9066,0.7507,0.91,0.4145,0.6179,0.4962

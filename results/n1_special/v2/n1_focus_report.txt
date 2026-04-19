@@ -1,0 +1,6 @@
+N1 PERFORMANCE (V2)
+===================
+
+Precision : 41.45%
+Recall    : 61.79%
+F1-score  : 49.62%

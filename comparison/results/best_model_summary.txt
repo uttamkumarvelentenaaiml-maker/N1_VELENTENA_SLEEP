@@ -1,0 +1,9 @@
+BEST MODELS
+===========
+
+accuracy: baseline (0.9248)
+macro_f1: n1_special (0.7987)
+weighted_f1: n1_special (0.9246)
+n1_precision: attention (0.6422)
+n1_recall: n1_v2 (0.6179)
+n1_f1: n1_special (0.5462)

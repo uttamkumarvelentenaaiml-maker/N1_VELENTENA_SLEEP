@@ -1,0 +1,6 @@
+N1 PERFORMANCE (Attention Model)
+================================
+
+Precision : 64.22%
+Recall    : 20.57%
+F1-score  : 31.16%
